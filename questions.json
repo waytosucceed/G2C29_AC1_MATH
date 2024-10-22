@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Dora had 15 pencils. She gave 5 pencils to her friend. How many pencils does Dora have left?",
+        "options": [
+            "10",
+            "11",
+            "8",
+            "9"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "There were 19 balloons at the party. 8 balloons popped. How many balloons are left?",
+        "options": [
+            "12",
+            "11",
+            "10",
+            "9"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "There were 25 students in the class. 5 students went home early. How many students are left in the class?",
+        "options": [
+            "15",
+            "20",
+            "22",
+            "18"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "A pet shop had 12 puppies. 10 puppies were adopted. How many puppies are left at the pet shop?",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Ammy had 16 stickers. She gave 5 stickers to her friends. How many stickers does Ammy have left?",
+        "options": [
+            "13",
+            "10",
+            "11",
+            "12"
+        ],
+        "correct": 2
+    }
+]
